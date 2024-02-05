@@ -1,8 +1,7 @@
 <template>
-  <div>
-    
-  <TestDemo></TestDemo>
-  </div>
+    <div>
+        noasdjisd
+    </div>
 </template>
 
 <script setup>
