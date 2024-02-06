@@ -1,6 +1,6 @@
 <template>
     <div>
-        noasdjisd
+头像
     </div>
 </template>
 

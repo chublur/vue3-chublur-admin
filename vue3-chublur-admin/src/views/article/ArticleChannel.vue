@@ -1,7 +1,7 @@
 <template>
-  <div>
-    <router-view></router-view>
-  </div>
+    <div>
+channel
+    </div>
 </template>
 
 <script setup>

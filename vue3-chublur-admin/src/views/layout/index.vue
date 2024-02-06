@@ -1,7 +1,7 @@
 <template>
-  <div>
-    <router-view></router-view>
-  </div>
+    <div>
+架子
+    </div>
 </template>
 
 <script setup>

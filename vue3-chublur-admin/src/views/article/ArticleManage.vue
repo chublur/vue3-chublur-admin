@@ -1,7 +1,7 @@
 <template>
-  <div>
-    <router-view></router-view>
-  </div>
+    <div>
+文章管理
+    </div>
 </template>
 
 <script setup>
